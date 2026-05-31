@@ -1,13 +1,13 @@
 const skills = [
-  "Next.js",
-  "TypeScript",
-  "Node.js",
-  "Express",
-  "PostgreSQL",
-  "Prisma",
-  "JWT",
-  "REST APIs",
-  "AI Integration",
+  "Next.js ",
+  "TypeScript ",
+  "Node.js ",
+  "Express ",
+  "PostgreSQL ",
+  "Prisma ",
+  "JWT ",
+  "REST APIs ",
+  "AI Integration ",
 ];
 
 export default function Skills() {

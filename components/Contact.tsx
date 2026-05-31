@@ -16,7 +16,7 @@ export default function Contact() {
         >
           Email Me
         </a>
-
+<span> & </span>
         <a
           href="https://www.linkedin.com/in/mustafa-719644412"
           className="px-5 py-2 border border-gray-600 rounded"

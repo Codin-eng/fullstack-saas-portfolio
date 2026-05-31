@@ -39,7 +39,7 @@ export default function Hero() {
         >
           GitHub &
         </a>
-
+<span> & </span>
         <a
           href="#projects"
           className="px-6 py-3 border border-gray-600 rounded-lg hover:border-white transition"

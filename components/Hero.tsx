@@ -46,6 +46,9 @@ export default function Hero() {
         >
           View Projects
         </a>
+      
+      
+      
       </motion.div>
     </section>
   );

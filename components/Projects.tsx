@@ -39,6 +39,7 @@ export default function Projects() {
 >
   Live Demo
 </a>
+<span> & </span>
             <a
               href={p.link}
               className="text-blue-400 mt-4 inline-block"

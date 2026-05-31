@@ -12,14 +12,14 @@ export default function Contact() {
       <div className="mt-6 flex gap-4">
         <a
           href="mailto:Bratha500@gmail.com"
-          className="px-5 py-2 bg-blue-600 rounded"
+           className="px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition no-underline text-white block-inline"
         >
           Email Me
         </a>
 <span> & </span>
         <a
           href="https://www.linkedin.com/in/mustafa-719644412"
-          className="px-5 py-2 border border-gray-600 rounded"
+            className="px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition no-underline text-white block-inline"
         >
           LinkedIn
         </a>

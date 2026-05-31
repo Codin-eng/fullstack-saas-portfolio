@@ -35,14 +35,14 @@ export default function Hero() {
       >
         <a
           href="https://github.com/Codin-eng"
-          className="px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition"
+            className="px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition no-underline text-white block-inline"
         >
-          GitHub &
+          GitHub 
         </a>
 <span> & </span>
         <a
           href="#projects"
-          className="px-6 py-3 border border-gray-600 rounded-lg hover:border-white transition"
+            className="px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition no-underline text-white block-inline"
         >
           View Projects
         </a>

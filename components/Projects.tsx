@@ -35,14 +35,14 @@ export default function Projects() {
   href="https://ai-saa-s-frontend-syfz.vercel.app/"
   target="_blank"
   rel="noopener noreferrer"
-  className="px-5 py-3 bg-blue-600 hover:bg-blue-700 rounded-xl text-white font-medium"
+   className="px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition no-underline text-white block-inline"
 >
   Live Demo
 </a>
 <span> & </span>
             <a
               href={p.link}
-              className="text-blue-400 mt-4 inline-block"
+               className="px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition no-underline text-white block-inline"
             >
               View Code →
             </a>

@@ -11,7 +11,7 @@ export default function Contact() {
 
       <div className="mt-6 flex gap-4">
         <a
-          href="Bratha500@gmail.com"
+          href="mailto:Bratha500@gmail.com"
           className="px-5 py-2 bg-blue-600 rounded"
         >
           Email Me
